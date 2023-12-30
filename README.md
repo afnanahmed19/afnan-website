@@ -8,3 +8,4 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 #### Video Demo:  <https://youtu.be/3IVYHp-2V3I>
 #### Description:
 TODO
+This portfolio showcases a selection of impactful projects that underscore my technical proficiency, problem-solving capabilities, and dedication to delivering solutions that align with organizational objectives.
